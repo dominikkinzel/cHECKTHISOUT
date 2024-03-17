@@ -1,1 +1,11 @@
+https://media.ccc.de/
 https://dnscrypt.info
+https://ffmuc.net/
+https://veracrypt.fr
+https://threema.ch
+https://signal.org/
+https://www.torproject.org/
+https://www.chromium.org/
+https://vscodium.com/
+https://grapheneos.org/
+https://pine64.org/
