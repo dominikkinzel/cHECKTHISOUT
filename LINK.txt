@@ -5,7 +5,8 @@ https://veracrypt.fr
 https://threema.ch
 https://signal.org/
 https://www.torproject.org/
-https://www.chromium.org/
 https://vscodium.com/
+https://f-droid.org/
 https://grapheneos.org/
 https://pine64.org/
+https://tails.net/
